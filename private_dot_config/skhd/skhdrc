@@ -1,0 +1,13 @@
+# open program keyboard shortcuts
+# 05.11.22 - backing up with chezmoi
+alt - e : open -a "Terminal"
+alt - w : open -a "Brave Browser"
+alt - q : open -a "Visual Studio Code"
+alt - t : open -a "Telegram"
+alt - m : open -a "Spotify"
+alt - s : open -a "Slack"
+alt - n : open -a "Notes"
+alt - i : open -a "Todoist"
+alt - d : open -a "Discord"
+
+
