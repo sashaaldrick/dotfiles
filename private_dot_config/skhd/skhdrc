@@ -1,6 +1,6 @@
 # open program keyboard shortcuts
 # 05.11.22 - backing up with chezmoi
-alt - e : open -a "Terminal"
+alt - e : open -a "iTerm"
 alt - w : open -a "Brave Browser"
 alt - q : open -a "Visual Studio Code"
 alt - t : open -a "Telegram"
