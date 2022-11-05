@@ -24,11 +24,13 @@ bindkey -v
 alias ll="ls -alG"
 alias lsl="ls -lart"
 
-### Vim 
+### dotfiles
 alias v='nvim'
 alias vz='nvim ~/.zshrc'
 alias vn='nvim ~/.config/nvim/init.lua'
-alias vs="vim ~/.config/skhd/skhdrc"
+alias vs='vim ~/.config/skhd/skhdrc'
+alias cz='chezmoi edit ~/.zshrc'
+alias cs='chezmoi edit ~/.config/skhd/skhdrc'
 
 ### Git
 alias ga="git add"

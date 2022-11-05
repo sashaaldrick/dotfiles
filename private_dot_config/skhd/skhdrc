@@ -1,7 +1,7 @@
 # open program keyboard shortcuts
 # 05.11.22 - backing up with chezmoi
 alt - e : open -a "iTerm"
-alt - w : open -a "Brave Browser"
+alt - w : open -a "Arc"
 alt - q : open -a "Visual Studio Code"
 alt - t : open -a "Telegram"
 alt - m : open -a "Spotify"
