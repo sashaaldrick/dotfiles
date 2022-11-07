@@ -27,6 +27,7 @@ alias lsl="ls -lart"
 ### dotfiles
 alias v='nvim'
 alias vz='nvim ~/.zshrc'
+alias vy='nvim ~/.yabairc'
 alias vn='nvim ~/.config/nvim/init.lua'
 alias vs='vim ~/.config/skhd/skhdrc'
 alias cz='chezmoi edit ~/.zshrc'
